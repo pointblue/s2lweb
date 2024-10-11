@@ -1,2 +1,2 @@
 # s2lweb
-Hosting a re-direct for the transfer of the s2l domain
+This project simply hosts a redirect page for the soundscapes2landscapes.org website
